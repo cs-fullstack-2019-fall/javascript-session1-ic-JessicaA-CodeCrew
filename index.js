@@ -15,6 +15,7 @@ function main()
         if (userInput === '1')
         {
             otherPrompt();
+            alert("Challenge Goes Here");
 
         }
         else if (userInput === '2')
